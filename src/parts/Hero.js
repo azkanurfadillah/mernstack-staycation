@@ -59,7 +59,7 @@ export default function Hero(props) {
               <img
                 width="36"
                 height="36"
-                src="/images/icon-treasures.svg"
+                src="/images/icon-treasure.svg"
                 alt={`${props.data.treasures} Treasures`}
               />
               <h6 className="mt-3">
