@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+@import "colorVariable";
 @import "functions";
 @import "variables";
 @import "mixins";
@@ -41,7 +42,6 @@
 @import "carousel";
 @import "utilities";
 @import "print";
-
 
 .brand-text-icon {
   font-size: 26px;

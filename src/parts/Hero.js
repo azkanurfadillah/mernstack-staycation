@@ -3,7 +3,7 @@ import React from "react";
 import ImageHero from "assets/images/img-hero.jpg";
 import ImageHero_ from "assets/images/img-hero-frame.jpg";
 
-import Button from "elements/button";
+import Button from "elements/Button";
 import formatNumber from "utils/formatNumber";
 
 export default function Hero(props) {
